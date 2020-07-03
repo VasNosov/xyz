@@ -1,1 +1,1 @@
-register();
+register(login, pass);
